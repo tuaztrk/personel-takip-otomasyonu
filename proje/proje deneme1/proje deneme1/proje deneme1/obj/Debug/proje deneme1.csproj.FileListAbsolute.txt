@@ -1,0 +1,125 @@
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.AssemblyReference.cache
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Form1.resources
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Properties.Resources.resources
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.GenerateResource.cache
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.CoreCompileInputs.cache
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe.config
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\bin\Debug\proje deneme1.pdb
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\obj\Debug\proje deneme1.exe
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\obj\Debug\proje deneme1.pdb
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form2.resources
+C:\Users\turka\Downloads\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form3.resources
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe.config
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.pdb
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.AssemblyReference.cache
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Form1.resources
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form2.resources
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form3.resources
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.loading.resources
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Properties.Resources.resources
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.GenerateResource.cache
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.CoreCompileInputs.cache
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.exe
+C:\Users\Tuana\Desktop\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.pdb
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.AssemblyReference.cache
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.dpname.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.dpsorumlu.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Form1.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form2.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form3.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.loading.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.mudur.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.muhasebe.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Properties.Resources.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.ıkakart.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.GenerateResource.cache
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.CoreCompileInputs.cache
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.exe
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.pdb
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe.config
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.pdb
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe.config
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.pdb
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.AssemblyReference.cache
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.dpname.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.dpsorumlu.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Form1.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form2.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form3.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.loading.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.mudur.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.muhasebe.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.owner.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.perskart.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Properties.Resources.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.ıkakart.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.GenerateResource.cache
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.CoreCompileInputs.cache
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.exe
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.pdb
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.ika.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.izinleri_göster.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.izinpersonel.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.clsmblglrm.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.maasdüzen.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe.config
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.pdb
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.AssemblyReference.cache
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.clsmblglrm.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.dpname.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.dpsorumlu.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Form1.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form2.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form3.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.izinleri_göster.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.izinpersonel.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.loading.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.maasdüzen.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.mudur.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.muhasebe.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.owner.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.perskart.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Properties.Resources.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.ika.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.ıkakart.resources
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.GenerateResource.cache
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.CoreCompileInputs.cache
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.exe
+C:\Users\turka\OneDrive\Masaüstü\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.pdb
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.AssemblyReference.cache
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.exe
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.pdb
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe.config
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.exe
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\bin\Debug\proje deneme1.pdb
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.clsmblglrm.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.dpname.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.dpsorumlu.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Form1.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form2.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.form3.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.izinleri_göster.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.izinpersonel.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.loading.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.maasdüzen.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.mudur.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.muhasebe.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.owner.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.perskart.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.Properties.Resources.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.ika.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.ıkakart.resources
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.GenerateResource.cache
+C:\Users\Tuana\Desktop\son\jfbd\proje deneme1322\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje deneme1.csproj.CoreCompileInputs.cache
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.clsmblglrm.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.izinleri_göster.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.izinpersonel.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.maasdüzen.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.owner.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.perskart.resources
+C:\Users\turka\OneDrive\Masaüstü\proje deneme1\proje deneme1\proje deneme1\obj\Debug\proje_deneme1.ika.resources
